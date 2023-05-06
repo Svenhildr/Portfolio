@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Julie Poissonnier",
+      "titles": [ "Front-end Developer", "Design Enthousiast" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Svenhildr",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "65"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "60"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "40"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "90"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "40"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

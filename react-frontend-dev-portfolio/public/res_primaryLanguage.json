@@ -1,0 +1,169 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour!",
+      "description": "Moi c'est Julie Poissonnier. Je suis une développeuse web diplômée à la recherche d'une alternance en télétravail complet ou à proximité de Caen en développement Frontend Javascript et React. Passionnée par la programmation et motivée pour acquérir de nouvelles compétences, je suis prête à relever des défis dans un environnement en constante évolution.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Intégration d'une maquette en site web",
+        "startDate": "2022",
+        "description": "Scénario : L’entreprise Booki souhaite développer un site Internet qui permettra aux usagers de trouver des hébergements et des activités dans la ville de leur choix. La mission est d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, le travail se fait en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer. ",
+        "images": [
+          "images/portfolio/Booki/booki_1.jpg",
+          "images/portfolio/Booki/booki_2.jpg"
+        ],
+        "url": "svenhildr.github.io/p2booki/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          }
+        ]
+      },
+      {
+        "title": "Dynamiser une page web avec des animations CSS",
+        "startDate": "2022",
+        "description": "Scénario : Ohmyfood une jeune startup, souahite développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques.",
+        "images": [
+          "images/portfolio/Ohmyfood/ohmyfood_1.jpg",
+          "images/portfolio/Ohmyfood/ohmyfood_2.jpg"
+        ],
+        "url": "svenhildr.github.io/Projet_3/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          }
+        ]
+      },
+      {
+        "title": "Optimiser un site web existant",
+        "startDate": "2023",
+        "description": "Scénario : l'agence La Panthère, une grande agence de web design basée à Lyon. L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité en optimisant le SEO et l'accessibilité du site.  ",
+        "images": [
+          "images/portfolio/LaPanthère/LaPanthère_0.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_1.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_2.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_3.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_4.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_5.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_6.jpg"
+        ],
+        "url": "svenhildr.github.io/la_panthere/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Construisez un site e-commerce en JavaScript",
+        "startDate": "2023",
+        "description": "Scénario : Kanap est une marque de canapés qui vend ses produits depuis sa boutique exclusivement. Celle-ci souhaiterait avoir une plateforme dynamique de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.",
+        "images": [
+          "images/portfolio/Kanap/kanap_1.jpg",
+          "images/portfolio/Kanap/kanap_2.jpg",
+          "images/portfolio/Kanap/kanap_3.jpg"
+        ],
+        "url": "svenhildr.github.io/P5-Dev-Web-Kanap/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "Optimiser un site web existant",
+        "startDate": "2023",
+        "description": "Scénario : l'agence La Panthère, une grande agence de web design basée à Lyon. L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité en optimisant le SEO et l'accessibilité du site.  ",
+        "images": [
+          "images/portfolio/LaPanthère/LaPanthère_0.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_1.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_2.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_3.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_4.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_5.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_6.jpg"
+        ],
+        "url": "https://github.com/Svenhildr/Projet_7_Kaza",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
