@@ -4,14 +4,14 @@
       "titles": [ "Front-end Developer", "Design Enthousiast" ],
       "social": [
         {
-          "name": "github",
+          "name": "Github",
           "url": "https://github.com/Svenhildr",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/julie-poissonnier-devweb/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
