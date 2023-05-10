@@ -18,7 +18,7 @@
           "images/portfolio/Booki/booki_1.jpg",
           "images/portfolio/Booki/booki_2.jpg"
         ],
-        "url": "svenhildr.github.io/p2booki/",
+        "url": "https://github.com/Svenhildr/p2booki",
         "technologies": [
           {
             "class": "devicon-css3-plain-wordmark",
@@ -38,7 +38,7 @@
           "images/portfolio/Ohmyfood/ohmyfood_1.jpg",
           "images/portfolio/Ohmyfood/ohmyfood_2.jpg"
         ],
-        "url": "svenhildr.github.io/Projet_3/",
+        "url": "https://github.com/Svenhildr/Projet_3",
         "technologies": [
           {
             "class": "devicon-css3-plain-wordmark",
@@ -67,7 +67,7 @@
           "images/portfolio/LaPanthère/LaPanthère_5.jpg",
           "images/portfolio/LaPanthère/LaPanthère_6.jpg"
         ],
-        "url": "svenhildr.github.io/la_panthere/",
+        "url": "https://github.com/Svenhildr/la_panthere",
         "technologies": [
           {
             "class": "devicon-css3-plain-wordmark",
@@ -92,7 +92,7 @@
           "images/portfolio/Kanap/kanap_2.jpg",
           "images/portfolio/Kanap/kanap_3.jpg"
         ],
-        "url": "svenhildr.github.io/P5-Dev-Web-Kanap/",
+        "url": "https://github.com/Svenhildr/P5-Kanap",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -101,17 +101,42 @@
         ]
       },
       {
-        "title": "Optimiser un site web existant",
+        "title": "Construire une API sécurisée",
+        "startDate": "2023",
+        "description": "Scénario :  La marque de condiments à base de piment Piiquante, veut développer une application web de critique des sauces piquantes appelée « Hot Takes » . Piiquante a besoin d'un développeur back-end pour construire l'API sécurisée. ",
+        "images": [
+          "images/portfolio/Picante/picante_2.jpg",
+          "images/portfolio/Picante/picante_1.jpg",
+          "images/portfolio/Picante/picante_3.jpg"
+        ],
+        "url": "https://github.com/Svenhildr/projet_6_Piquante",
+        "technologies": [
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Créez une application web de location avec React",
         "startDate": "2023",
         "description": "Scénario : l'agence La Panthère, une grande agence de web design basée à Lyon. L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité en optimisant le SEO et l'accessibilité du site.  ",
         "images": [
-          "images/portfolio/LaPanthère/LaPanthère_0.jpg",
-          "images/portfolio/LaPanthère/LaPanthère_1.jpg",
-          "images/portfolio/LaPanthère/LaPanthère_2.jpg",
-          "images/portfolio/LaPanthère/LaPanthère_3.jpg",
-          "images/portfolio/LaPanthère/LaPanthère_4.jpg",
-          "images/portfolio/LaPanthère/LaPanthère_5.jpg",
-          "images/portfolio/LaPanthère/LaPanthère_6.jpg"
+          "images/portfolio/kasa/kasa_1.jpg",
+          "images/portfolio/kasa/kasa_2.jpg",
+          "images/portfolio/kasa/kasa_3.jpg"
         ],
         "url": "https://github.com/Svenhildr/Projet_7_Kaza",
         "technologies": [
@@ -124,8 +149,8 @@
             "name": "Html"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       }
@@ -151,9 +176,104 @@
         ]
       },
       {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
         "company": "Serros Solutions",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "2010 - 2012",
         "mainTech": [
           "Angular 7/8"
         ],

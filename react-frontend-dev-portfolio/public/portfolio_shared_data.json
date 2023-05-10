@@ -51,7 +51,17 @@
         {
           "name": "Express",
           "class": "devicon-express-original",
-          "level": "90"
+          "level": "40"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "40"
+        },
+        {
+          "name": "github",
+          "class": "devicon-github-original",
+          "level": "40"
         },
         {
           "name": "Illustrator",

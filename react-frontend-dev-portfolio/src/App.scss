@@ -143,6 +143,8 @@ header h1 {
   transition: all 0.2s linear;
   z-index: 0;
   position: relative;
+  max-height: 315px;
+  width: 100%;
 }
 
 .foto div:after {
@@ -165,11 +167,16 @@ header h1 {
 
 .project-title-settings {
   margin-top: 5%;
-  font: 18px/24px "opensans-bold", sans-serif;
+  font: 16px/18px "opensans-bold", sans-serif;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   color: black;
   text-align: center;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 60px;
 }
 
 .polaroid img {
@@ -349,7 +356,7 @@ header h1 {
 }
 
 .portfolio-item {
-  max-width: 368px;
+  max-width: 400px;
   margin-bottom: 15px;
   text-align: center;
 }
