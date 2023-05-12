@@ -1,116 +1,241 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hello",
+      "description": "Hi, I'm Julie Poissonnier. I am a graduate web developer looking for an apprenticeship in fully remote or near Caen, specializing in Frontend JavaScript and React development. I have a passion for programming and a strong motivation to acquire new skills. I am ready to take on challenges in a dynamic and ever-evolving environment.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "skills",
+        "experience": "Expériences"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Integration of a mockup into a website.",
+        "startDate": "2022",
+        "description": "Scenario: The company Booki wants to develop a website that allows users to find accommodations and activities in the city of their choice. The mission is to integrate the website's interface using HTML and CSS code. For this, the work is done in close collaboration with Sarah, the CTO, and Loïc, the UI designer.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Booki/booki_1.jpg",
+          "images/portfolio/Booki/booki_2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/Svenhildr/p2booki",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Adding dynamic animations to a web page using CSS.",
+        "startDate": "2022",
+        "description": "Scenario: Ohmyfood, a young startup, wants to develop a 'mobile-first' website that showcases menus from gourmet restaurants.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Ohmyfood/ohmyfood_1.jpg",
+          "images/portfolio/Ohmyfood/ohmyfood_2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Svenhildr/Projet_3",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          }
+        ]
+      },
+      {
+        "title": "Optimizing an existing website.",
+        "startDate": "2023",
+        "description": "Scenario: La Panthère Agency, a leading web design agency based in Lyon, started off strong but is currently experiencing a decline in business. The founder of the company, Sophie, is looking for a solution to revitalize the business by optimizing the website's SEO and accessibility.",
+        "images": [
+          "images/portfolio/LaPanthère/LaPanthère_0.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_1.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_2.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_3.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_4.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_5.jpg",
+          "images/portfolio/LaPanthère/LaPanthère_6.jpg"
+        ],
+        "url": "https://github.com/Svenhildr/la_panthere",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Building an e-commerce website using JavaScript.",
+        "startDate": "2023",
+        "description": "Scenario: Kanap is a sofa brand that currently sells its products exclusively through its physical store. They would like to have a dynamic e-commerce platform in addition to their brick-and-mortar store to sell their products online.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Kanap/kanap_1.jpg",
+          "images/portfolio/Kanap/kanap_2.jpg",
+          "images/portfolio/Kanap/kanap_3.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Svenhildr/P5-Kanap",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "Building a secure API.",
+        "startDate": "2023",
+        "description": "Scenario: Piiquante, a hot sauce condiment brand, wants to develop a web application for reviewing spicy sauces called 'Hot Takes.' Piiquante is in need of a back-end developer to build the secure API.",
+        "images": [
+          "images/portfolio/Picante/picante_2.jpg",
+          "images/portfolio/Picante/picante_1.jpg",
+          "images/portfolio/Picante/picante_3.jpg"
+        ],
+        "url": "https://github.com/Svenhildr/projet_6_Piquante",
+        "technologies": [
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Creating a rental web application with React.",
+        "startDate": "2023",
+        "description": "Scenario: La Panthère Agency, a prominent web design agency based in Lyon, had a successful start, but currently faces a slowdown in business. Sophie, the founder of the company, is seeking a solution to revitalize the business by optimizing the website's SEO and accessibility.",
+        "images": [
+          "images/portfolio/kasa/kasa_1.jpg",
+          "images/portfolio/kasa/kasa_2.jpg",
+          "images/portfolio/kasa/kasa_3.jpg"
+        ],
+        "url": "https://github.com/Svenhildr/Projet_7_Kaza",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "",
+        "title": "Creating a mockup for an e-commerce website.",
+        "years": "2023",
+        "mainTech": [],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "penpot",
+          "illustrator",
+          "photoshop"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
+        "company": "Open Classrooms",
+        "title": "Web developer training.",
+        "years": "2022 - 2023",
+        "mainTech": ["Diplôme RNCP 5"],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "HTML",
+          "CSS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "MongoDB",
+          "REST API",
+          "Express",
+          "Sass",
+          "SEO"
         ]
+      },
+      {
+        "company": "Education Nationnale",
+        "title": "Assistante d'éducation",
+        "years": "2018 - 2021",
+        "mainTech": [],
+        "technologies": []
+      },
+      {
+        "company": "Zodio",
+        "title": "Hotesse de caisse et d'accueil",
+        "years": "2018",
+        "mainTech": [],
+        "technologies": []
+      },
+      {
+        "company": "Université de Caen",
+        "title": "Master archéologie",
+        "years": "2015 - 2018",
+        "mainTech": [
+          "Master"
+        ],
+        "technologies": []
+      },
+      {
+        "company": "Université d'Aix-Marseille",
+        "title": "Licence histoire de l'art et archéologie",
+        "years": "2012 - 2015",
+        "mainTech": [
+          "Bachelor"
+        ],
+        "technologies": []
+      },
+      {
+        "company": "E.Leclerc",
+        "title": "Hotesse de caisse",
+        "years": "2014 - 2015",
+        "mainTech": [],
+        "technologies": []
+      },
+      {
+        "company": "Société générale",
+        "title": "Auxiliaire de vacances",
+        "years": "2014",
+        "mainTech": [],
+        "technologies": []
+      },
+      {
+        "company": "ADMR",
+        "title": "Aide à la personne et garde d'enfant",
+        "years": "2010-2012",
+        "mainTech": [],
+        "technologies": []
       }
     ]
   }
