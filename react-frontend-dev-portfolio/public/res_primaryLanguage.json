@@ -157,133 +157,85 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "",
+        "title": "Création d'une maquette pour un site de e-commerce",
+        "years": "2023",
+        "mainTech": [],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "penpot",
+          "illustrator",
+          "photoshop"
         ]
       },
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "Open Classrooms",
+        "title": "Formation développeur web",
+        "years": "2022 - 2023",
+        "mainTech": ["Diplôme RNCP 5"],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "MongoDB",
+          "REST API",
+          "Express",
+          "Sass",
+          "SEO"
         ]
       },
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "company": "Education Nationnale",
+        "title": "Assistante d'éducation",
+        "years": "2018 - 2021",
+        "mainTech": [],
+        "technologies": []
       },
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "company": "Zodio",
+        "title": "Hotesse de caisse et d'accueil",
+        "years": "2018",
+        "mainTech": [],
+        "technologies": []
       },
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Université de Caen",
+        "title": "Master archéologie",
+        "years": "2015 - 2018",
         "mainTech": [
-          "Angular 8/9/10"
+          "Master"
         ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "technologies": []
       },
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Université d'Aix-Marseille",
+        "title": "Licence histoire de l'art et archéologie",
+        "years": "2012 - 2015",
         "mainTech": [
-          "Angular 8/9/10"
+          "Licence"
         ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "technologies": []
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "2010 - 2012",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "company": "E.Leclerc",
+        "title": "Hotesse de caisse",
+        "years": "2014 - 2015",
+        "mainTech": [],
+        "technologies": []
+      },
+      {
+        "company": "Société générale",
+        "title": "Auxiliaire de vacances",
+        "years": "2014",
+        "mainTech": [],
+        "technologies": []
+      },
+      {
+        "company": "ADMR",
+        "title": "Aide à la personne et garde d'enfant",
+        "years": "2010-2012",
+        "mainTech": [],
+        "technologies": []
       }
     ]
   }
