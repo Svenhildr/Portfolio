@@ -153,6 +153,58 @@
             "name": "React"
           }
         ]
+      },
+      {
+        "title": "Create a landing page with Javascript",
+        "startDate": "2023",
+        "description": "Scenario : the mission is to finalize the Front-End part by adding the missing JavaScript code to make the form fully functional. ",
+        "images": [
+          "images/portfolio/GameOn/game_on_1.jpg",
+          "images/portfolio/GameOn/game_on_2.jpg",
+          "images/portfolio/GameOn/game_on_3.jpg"
+        ],
+        "url": "https://github.com/Svenhildr/GameOn_4_25082023", 
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Créer un site accessible pour une plateforme de photographes",
+        "startDate": "2023",
+        "description": "Scenario : FishEye is a website that allows independent photographers to showcase their best works. Recently, they secured funding and would like to update their website",
+        "images": [
+          "images/portfolio/FishEye/FishEye_1.jpg",
+          "images/portfolio/FishEye/FishEye_3.jpg",
+          "images/portfolio/FishEye/FishEye_2.jpg",
+          "images/portfolio/FishEye/FishEye_4.jpg"
+          
+        ],
+        "url": "https://github.com/Svenhildr/projet_6_FishEye",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
       }
     ],
     "experience": [
