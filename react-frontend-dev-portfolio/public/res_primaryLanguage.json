@@ -174,7 +174,7 @@
             "name": "Html"
           },
           {
-            "class": "devicon-javascript-original",
+            "class": "devicon-javascript-plain",
             "name": "Javascript"
           }
         ]
@@ -184,10 +184,10 @@
         "startDate": "2023",
         "description": "Scénario : FishEye est un site web qui permet aux photographes indépendants de présenter leurs meilleurs travaux. Ils ont récemment levé des fonds et aimeraient mettre à jour leur site web.   ",
         "images": [
-          "images/portfolio/FishEye_4/FishEye_1.jpg",
-          "images/portfolio/FishEye_4/FishEye_2.jpg",
-          "images/portfolio/FishEye_4/FishEye_3.jpg",
-          "images/portfolio/FishEye_4/FishEye_4.jpg"
+          "images/portfolio/FishEye/FishEye_1.jpg",
+          "images/portfolio/FishEye/FishEye_3.jpg",
+          "images/portfolio/FishEye/FishEye_2.jpg",
+          "images/portfolio/FishEye/FishEye_4.jpg"
           
         ],
         "url": "https://github.com/Svenhildr/projet_6_FishEye",
@@ -201,7 +201,7 @@
             "name": "Html"
           },
           {
-            "class": "devicon-javascript-original",
+            "class": "devicon-javascript-plain",
             "name": "Javascript"
           }
         ]
