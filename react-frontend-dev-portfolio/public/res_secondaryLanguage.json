@@ -209,6 +209,22 @@
     ],
     "experience": [
       {
+        "company": "Open Classrooms",
+        "title": "JavaScript/React Application Developer Training",
+        "years": "2023 - today",
+        "mainTech": ["RNCP level 6 Diploma - ongoing "],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "jQuery",
+          "Sass",
+          "SEO",
+          "Accessibility"
+        ]
+      },
+      {
         "company": "",
         "title": "Creating a mockup for an e-commerce website.",
         "years": "2023",
@@ -223,7 +239,7 @@
         "company": "Open Classrooms",
         "title": "Web developer training.",
         "years": "2022 - 2023",
-        "mainTech": ["Diplôme RNCP 5"],
+        "mainTech": ["RNCP level 5 Diploma"],
         "technologies": [
           "HTML",
           "CSS",

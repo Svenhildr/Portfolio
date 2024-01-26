@@ -209,6 +209,21 @@
     ],
     "experience": [
       {
+        "company": "Open Classrooms",
+        "title": "Formation développeur d'application Javascript / React",
+        "years": "2023 - aujourd'hui",
+        "mainTech": ["Diplôme RNCP 6 - en cours " ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "jQuery",
+          "Sass",
+          "SEO",
+          "Accessibility"
+        ]
+      },{
         "company": "",
         "title": "Création d'une maquette pour un site de e-commerce",
         "years": "2023",
