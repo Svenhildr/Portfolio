@@ -153,6 +153,58 @@
             "name": "React"
           }
         ]
+      },
+      {
+        "title": "Créer une landing page avec Javascript",
+        "startDate": "2023",
+        "description": "Scénario : l'agence La Panthère, une grande agence de web design basée à Lyon. L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité en optimisant le SEO et l'accessibilité du site.  ",
+        "images": [
+          "images/portfolio/GameOn/game_on_1.jpg",
+          "images/portfolio/GameOn/game_on_2.jpg",
+          "images/portfolio/GameOn/game_on_3.jpg"
+        ],
+        "url": "https://github.com/Svenhildr/GameOn_4_25082023", 
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Créer un site accessible pour une plateforme de photographes",
+        "startDate": "2023",
+        "description": "Scénario : FishEye est un site web qui permet aux photographes indépendants de présenter leurs meilleurs travaux. Ils ont récemment levé des fonds et aimeraient mettre à jour leur site web.   ",
+        "images": [
+          "images/portfolio/FishEye/FishEye_1.jpg",
+          "images/portfolio/FishEye/FishEye_3.jpg",
+          "images/portfolio/FishEye/FishEye_2.jpg",
+          "images/portfolio/FishEye/FishEye_4.jpg"
+          
+        ],
+        "url": "https://github.com/Svenhildr/projet_6_FishEye",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
       }
     ],
     "experience": [
