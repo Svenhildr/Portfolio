@@ -72,6 +72,11 @@
           "name": "Figma",
           "class": "devicon-figma-plain",
           "level": "60"
+        },
+        {
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-original",
+          "level": "60"
         }
       ]
     }
